@@ -64,7 +64,7 @@ main h1 {
 }
 
 main h2 {
-    background-image: linear-gradient(to right, var(--cor1), transparent);
+    background-image: linear-gradient(to right, var(--cor3), transparent);
     font-family: 'Noto Serif Ahom', serif;
     font-size: 1.3em;
     font-weight: bold;
