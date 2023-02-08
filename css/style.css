@@ -40,7 +40,8 @@ nav > a {
 }
 
 nav > a:hover {
-    background-color: var(--cor4);
+    color: var(--cor3);
+    background-color: black;
     border-radius: 10px;
     transition-duration: 0.5s;
 }
@@ -88,32 +89,7 @@ main p {
     margin: 0px 20px;
 }
 
-.comeco {
-    margin: auto;
-    margin-bottom: 20px;
-    display: block;
-    width: 400px;
-    max-width: 400px;
-    border-radius: 10px;
-}
-
-.santos {
-    margin: auto;
-    display: block;
-    max-width: 400px;
-    border-radius: 10px;
-}
-
-.primeirotitulo {
-    margin: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    display: block;
-    max-width: 400px;
-    border-radius: 10px;
-}
-
-.paulista1960 {
+main img {
     margin: auto;
     display: block;
     width: 400px;
@@ -128,3 +104,11 @@ hr {
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+
+/*  
+    Colocar nos vídeos:
+    Golaço contra o Juventus
+    Golaço contra o Fluminense
+    Santos x Tchecoslovaquia 
+*/
