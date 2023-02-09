@@ -30,6 +30,7 @@ nav {
     margin: -4px;
     padding: 20px;
     background-image: linear-gradient(to right, var(--cor3), var(--cor5));
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.288);
 }
 
 nav > a {
@@ -56,6 +57,7 @@ main {
     margin-top: 8px;
     padding-bottom: 20px;
     border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 
 main h1 {
@@ -119,6 +121,7 @@ footer {
     margin-top: 4px;
     padding: 5px;
     text-align: center;
+    box-shadow: 0px 7px 7px 7px rgba(0, 0, 0, 0.39);
 }
 
 footer a {
