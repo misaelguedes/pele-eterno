@@ -112,6 +112,20 @@ hr {
     margin-top: 20px;
 }
 
+.titulos {
+    text-align: center;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: justify;
+    line-height: 1.5em;
+    margin: 20px;
+    padding-left: 40px;
+    list-style: disc;
+}
+
 footer {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.3em;
