@@ -19,18 +19,18 @@ body {
     background-image: url(../imagens/background.png);
     background-attachment: fixed;
     background-size: 100%;
-    min-width: 100px;
+    min-width: 400px;
 }
 
 header > img {
     width: 100%;
-    min-width: 300px;
+    min-width: 400px;
     margin-bottom: -4px;
 }
 
 nav {
     background-image: linear-gradient(to right, var(--cor3), var(--cor5));
-    min-width: 300px;
+    min-width: 400px;
     padding: 15px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.288);
 }
@@ -102,7 +102,7 @@ main img {
     margin: auto;
     display: block;
     width: 400px;
-    min-width: 200px;
+    min-width: 300px;
     max-width: 400px;
     border-radius: 10px;
     margin-top: 20px;
