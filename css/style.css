@@ -19,13 +19,10 @@ body {
     background-image: url(../imagens/background.png);
     background-attachment: fixed;
     background-size: cover;
-    position: relative;
-    min-width: 100px;
 }
 
 header > img {
     width: 100%;
-    min-width: 100px;
     margin-bottom: -4px;
 }
 
@@ -53,8 +50,8 @@ nav > a:hover {
 
 main {
     background-color: rgba(214, 214, 214, 0.925);
-    min-width: 100;
-    max-width: 1000px;
+    min-width: 70vw;
+    max-width: 70vw;
     margin: auto;
     margin-top: 4px;
     padding-bottom: 20px;
@@ -102,8 +99,8 @@ main img {
     margin: auto;
     display: block;
     width: 400px;
-    min-width: 200px;
-    max-width: 400px;
+    min-width: 20vw;
+    max-width: 40vw;
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
