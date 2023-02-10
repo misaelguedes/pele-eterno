@@ -50,7 +50,7 @@ nav > a:hover {
 
 main {
     background-color: rgba(214, 214, 214, 0.925);
-    min-width: 500px;
+    min-width: 200px;
     max-width: 1000px;
     margin: auto;
     margin-top: 4px;
