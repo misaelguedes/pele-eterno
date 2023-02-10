@@ -16,11 +16,7 @@
 }
 
 body {
-    background-image: url(../imagens/background.png);
-    background-size: 1349px;
-    min-width: 300px;
-    max-width: 1349px;
-    background-attachment: fixed;
+    background-image: url(../imagens/background.jpg);
 }
 
 header > img {
