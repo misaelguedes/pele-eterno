@@ -31,7 +31,6 @@ header > img {
 nav {
     background-image: linear-gradient(to right, var(--cor3), var(--cor5));
     min-width: 300px;
-    max-width: 1323px;
     padding: 15px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.288);
 }
@@ -103,6 +102,7 @@ main img {
     margin: auto;
     display: block;
     width: 400px;
+    min-width: 300px;
     max-width: 400px;
     border-radius: 10px;
     margin-top: 20px;
@@ -163,10 +163,5 @@ footer a {
 }
 
 footer a:hover {
-    color: var(--cor4);
-    background-color: rgb(68, 68, 255);
-    margin: 10px;
-    border-radius: 10px;
-    padding: 3px;
-    transition-duration: 0.5s;
+    text-decoration: underline;
 }
