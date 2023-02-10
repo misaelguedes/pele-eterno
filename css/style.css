@@ -16,8 +16,10 @@
 }
 
 body {
-    background-image: url(../imagens/background.jpg);
+    background-image: url(../imagens/background.png);
     background-attachment: fixed;
+    background-size: 100%;
+    min-width: 300px;
 }
 
 header > img {
