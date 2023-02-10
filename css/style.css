@@ -17,6 +17,7 @@
 
 body {
     background-image: url(../imagens/background.jpg);
+    background-attachment: fixed;
 }
 
 header > img {
