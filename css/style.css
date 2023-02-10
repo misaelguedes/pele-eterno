@@ -19,10 +19,12 @@ body {
     background-image: url(../imagens/background.png);
     background-attachment: fixed;
     background-size: cover;
+    min-width: 300px;
 }
 
 header > img {
     width: 100%;
+    min-width: 300px;
     margin-bottom: -4px;
 }
 
@@ -50,6 +52,7 @@ nav > a:hover {
 
 main {
     background-color: rgba(214, 214, 214, 0.925);
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-top: 4px;
