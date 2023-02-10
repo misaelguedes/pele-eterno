@@ -112,7 +112,7 @@ hr {
     margin-top: 20px;
 }
 
-.titulos {
+.titulosmenu {
     text-align: center;
 }
 
@@ -124,6 +124,22 @@ ul {
     margin: 20px;
     padding-left: 40px;
     list-style: disc;
+}
+
+div.video {
+    background-color: var(--cor5);
+    margin: 20px 100px 20px 100px;
+    padding: 20px;
+    padding-bottom: 58%;
+    position: relative;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 footer {
