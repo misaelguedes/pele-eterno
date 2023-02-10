@@ -19,7 +19,7 @@ body {
     background-image: url(../imagens/background.png);
     background-attachment: fixed;
     background-size: 100%;
-    min-width: 500px;
+    min-width: 425px;
 }
 
 header > img {
