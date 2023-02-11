@@ -21,8 +21,9 @@ body {
     background-size: cover;
 }
 
-header > img {
+header img {
     width: 100%;
+    min-height: 150px;
     margin-bottom: -4px;
 }
 
