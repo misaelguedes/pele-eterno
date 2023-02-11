@@ -50,8 +50,8 @@ nav > a:hover {
 
 main {
     background-color: rgba(214, 214, 214, 0.925);
-    min-width: 70vw;
-    max-width: 70vw;
+    min-width: 300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 4px;
     padding-bottom: 20px;
@@ -99,8 +99,8 @@ main img {
     margin: auto;
     display: block;
     width: 400px;
-    min-width: 20vw;
-    max-width: 40vw;
+    min-width: 300px;
+    max-width: 400px;
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
