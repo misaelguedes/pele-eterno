@@ -38,6 +38,7 @@ nav > a {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.2em;
     text-decoration: none;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.205);
     font-weight: bold;
 }
 
@@ -98,9 +99,7 @@ main p {
 main img {
     margin: auto;
     display: block;
-    width: 400px;
-    min-width: 30vw;
-    max-width: 90vw;
+    max-width: 400px;
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -191,6 +190,7 @@ footer a {
     color: black;
     font-weight: bolder;
     text-decoration: none;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.205);
 }
 
 footer a:hover {
