@@ -99,6 +99,7 @@ main p {
 main img {
     margin: auto;
     display: block;
+    width: 400px;
     max-width: 400px;
     border-radius: 10px;
     margin-top: 20px;
